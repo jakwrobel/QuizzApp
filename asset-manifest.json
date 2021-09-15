@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quizzApp/static/css/main.ab7293eb.chunk.css",
+    "main.js": "/quizzApp/static/js/main.4cbb6253.chunk.js",
+    "main.js.map": "/quizzApp/static/js/main.4cbb6253.chunk.js.map",
+    "runtime-main.js": "/quizzApp/static/js/runtime-main.75347a5b.js",
+    "runtime-main.js.map": "/quizzApp/static/js/runtime-main.75347a5b.js.map",
+    "static/js/2.5043c388.chunk.js": "/quizzApp/static/js/2.5043c388.chunk.js",
+    "static/js/2.5043c388.chunk.js.map": "/quizzApp/static/js/2.5043c388.chunk.js.map",
+    "static/js/3.bccb29eb.chunk.js": "/quizzApp/static/js/3.bccb29eb.chunk.js",
+    "static/js/3.bccb29eb.chunk.js.map": "/quizzApp/static/js/3.bccb29eb.chunk.js.map",
+    "index.html": "/quizzApp/index.html",
+    "static/css/main.ab7293eb.chunk.css.map": "/quizzApp/static/css/main.ab7293eb.chunk.css.map",
+    "static/js/2.5043c388.chunk.js.LICENSE.txt": "/quizzApp/static/js/2.5043c388.chunk.js.LICENSE.txt",
+    "static/media/theme.scss": "/quizzApp/static/media/pole_pytania.14ce0cf8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75347a5b.js",
+    "static/js/2.5043c388.chunk.js",
+    "static/css/main.ab7293eb.chunk.css",
+    "static/js/main.4cbb6253.chunk.js"
+  ]
+}
